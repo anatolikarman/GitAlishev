@@ -1,3 +1,5 @@
 Hello World!
 12345
 Goodbye
+
+Second part from user1 for lesson 14
