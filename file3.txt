@@ -1,2 +1,3 @@
 first line (user1)
 Second line added (user1)
+Line from user2
