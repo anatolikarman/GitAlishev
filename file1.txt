@@ -5,3 +5,5 @@ Goodbye
 
 Second part from user1 for lesson 14
 Line from user1
+
+Some changes
