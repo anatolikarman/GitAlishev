@@ -1,3 +1,6 @@
+
+Added branch1
+
 first line (user1)
 Second line added (user1)
 Line from user1
